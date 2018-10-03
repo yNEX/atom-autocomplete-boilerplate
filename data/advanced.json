@@ -1,6 +1,6 @@
 [
 	{
-		"displayText": "t:cobblestone",
+		"displayText": ".tcobblestone",
 		"snippet": "Ersetze ${1:diesen Text!}",
 		"description": "Ein einfacher Text."
 	},
