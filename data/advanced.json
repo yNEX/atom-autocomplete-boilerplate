@@ -1,6 +1,6 @@
 [
 	{
-		"displayText": "@snippet1",
+		"displayText": "t:cobblestone",
 		"snippet": "Start typing to replace ${1:this text}.",
 		"description": "A simple snippet."
 	},
