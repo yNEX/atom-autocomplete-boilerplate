@@ -1,9 +1,9 @@
 [
 	{
-		"displayText": "cobblestone",
-		"snippet": "Ersetze ${1:diesen Text!}",
-		"description": "Ein einfacher Text.",
-		"descriptionMoreURL": "http://google.de"
+		"displayText": "IDRegistry.genBlockID();",
+		"snippet": "IDRegistry.genBlockID('${1:string:ID}');",
+		"description": "Register a new Block.",
+		"descriptionMoreURL": "https://wiki.mineprogramming.org/index.php/InnerCore/Создание_блоков_и_предметов"
 	},
 	{
 		"displayText": "@snippet2",
