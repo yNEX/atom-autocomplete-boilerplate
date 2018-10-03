@@ -1,6 +1,6 @@
 [
 	{
-		"displayText": "t:cobblestone",
+		"displayText": "cobblestone",
 		"snippet": "Ersetze ${1:diesen Text!}",
 		"description": "Ein einfacher Text.",
 		"descriptionMoreURL": "http://google.de"
