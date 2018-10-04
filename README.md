@@ -1,6 +1,6 @@
-#To-do
-- make advanced-provider not canse-intensitive
-- should also suggest snippets if you dont start with the beginning of it; snippet name "IDRegistry.genBlockID" should not only be suggested if you type IDR, it should even if you type "genbl" or "idrbid"
+# To-do
+- make advanced-provider case-intensitive
+- should also suggest snippets if you dont start with the beginning of it; snippet name "IDRegistry.genBlockID" should not only be suggested if you type "IDR", it should even if you type "genbl" or "idrbid"
 
 
 # atom-autocomplete-boilerplate
